@@ -7,5 +7,7 @@
 
 import Foundation
 
-print("Hello, World!")
 
+var = 10
+var = 12
+print ("\(10)")
