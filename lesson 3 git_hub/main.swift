@@ -8,6 +8,6 @@
 import Foundation
 
 
-var name = 10
-var numb = 12
-print ("\(10 * 12)")
+var num = 12
+var numb = 14
+print ("\(num + numb)")
