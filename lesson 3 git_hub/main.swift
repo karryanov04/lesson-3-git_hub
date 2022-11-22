@@ -8,6 +8,6 @@
 import Foundation
 
 
-var = 10
-var = 12
-print ("\(10)")
+var name = 10
+var numb = 12
+print ("\(10 * 12)")
